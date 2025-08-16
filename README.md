@@ -1,8 +1,7 @@
 # Sanctions-Screening-Public-Project
 A powerful, multilingual, open-source sanctions screening tool designed to run locally. It allows analysts and compliance teams to quickly, privately, and effectively check names and entities against major international sanctions lists (OFAC, UN, EU, UK). 
-[img]https://i.imgur.com/YhmzTuI.png[/img]
-
-[img]https://i.imgur.com/sXMVbO3.png[/img]
+![Sanctions Screening Screenshot](https://i.imgur.com/YhmzTuI.png)
+![Sanctions Screening Results](https://i.imgur.com/sXMVbO3.png)
 
 Key Features
 List Aggregator: Automatically downloads and consolidates sanctions lists from OFAC, the UN, the European Union, and the United Kingdom into a single local SQLite database.
